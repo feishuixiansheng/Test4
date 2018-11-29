@@ -17,6 +17,10 @@ public class Base {
         this.msg = msg;
     }
 
+    /**
+     * dfsafs
+     * @return dfsgfd
+     */
     public String getStatus() {
         return status;
     }
